@@ -9,11 +9,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Domain", "2 - Domain", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Infrastructure", "3 - Infrastructure", "{13C14C8A-85D3-46A3-9767-C08D5F2F502C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGLOC.ApplicationCore", "src\SGLOC.ApplicationCore\SGLOC.ApplicationCore.csproj", "{340F4173-430C-4CA0-AEB6-5FCCC964BF8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SGLOC.ApplicationCore", "src\SGLOC.ApplicationCore\SGLOC.ApplicationCore.csproj", "{340F4173-430C-4CA0-AEB6-5FCCC964BF8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGLOC.Infrastructure", "src\SGLOC.Infrastructure\SGLOC.Infrastructure.csproj", "{09D0C983-0D4C-466B-92BA-D6AE789C738E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SGLOC.Infrastructure", "src\SGLOC.Infrastructure\SGLOC.Infrastructure.csproj", "{09D0C983-0D4C-466B-92BA-D6AE789C738E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGLOC.UI.Web", "src\SGLOC.UI.Web\SGLOC.UI.Web.csproj", "{76449E93-D6B9-4911-B163-3C32C513C713}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SGLOC.UI.Web", "src\SGLOC.UI.Web\SGLOC.UI.Web.csproj", "{76449E93-D6B9-4911-B163-3C32C513C713}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
