@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Text;
 
@@ -16,7 +17,6 @@ namespace SGLOC.ApplicationCore.Entity
         public String Email { get; set; }
         public ICollection<Locacao> Locacoes { get; set; }
         public ICollection<Endereco> Endereco { get; set; }
-
-
+        public ICollection<ProfissaoCliente> ProfissoesClientes { get; set; }
     }
 }
